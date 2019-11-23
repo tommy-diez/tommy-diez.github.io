@@ -111,7 +111,7 @@ textarea {
 }
 #masthead {
   clear: both;
-  background-image: url("../img/background.jpg");
+  background-image: url("../img/BackgroundGradient.jpg");
   background-size: cover;
   background-position: center;
   height: 64px;
@@ -120,7 +120,7 @@ textarea {
 }
 #masthead_landing {
   clear: both;
-  background-image: url("../img/background.jpg");
+  background-image: url("../img/BackgroundGradient.jpg");
   background-size: cover;
   background-position: center;
   height: 366px;
