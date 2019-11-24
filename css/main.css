@@ -131,14 +131,14 @@ textarea {
   margin: 0px;
   padding: 0px;
 }
-#primary_links {
+#primary_menu {
   float: right;
 }
-#primary_links li {
+#primary_menu li {
   display: inline;
   line-height: 120px;
 }
-#primary_links menu {
+#primary_menu menu {
   margin: 0px;
   padding: 0px;
 }
