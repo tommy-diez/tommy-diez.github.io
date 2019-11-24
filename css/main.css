@@ -159,6 +159,16 @@ textarea {
   margin-left: auto;
   margin-right: auto;
 }
+#sidebar2 {
+  width: 367px;
+  float: right;
+}
+#sidebar_image2 {
+  height: 320px;
+  width: 294px;
+  margin-left: auto;
+  margin-right: auto;
+}
 #footer {
   text-align: center;
   height: 120px;
