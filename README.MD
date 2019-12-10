@@ -1,2 +1,2 @@
-# Adib Haque
-## Z Layout Site
+# Thomas Diez
+## Mini Project 2
